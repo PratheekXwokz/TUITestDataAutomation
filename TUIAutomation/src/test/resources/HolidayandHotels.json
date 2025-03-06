@@ -1,0 +1,41 @@
+{
+  "tabs": [
+    {
+      "name": "All List",
+      "items": [
+        {
+          "id": "1",
+          "type": "Hotel",
+          "name": "H10 London Waterloo",
+          "description": "in Großbritannien, GreaterLondon/South East England, London",
+          "price": "$1,280",
+          "boardType": "Ohne Verpflegung"
+        },
+        {
+          "id": "2",
+          "type": "Holiday",
+          "name": "Riu Madeira",
+          "description": "in Portugal, Madeira, Canico/Canico de Baixo",
+          "price": "$3,060",
+          "boardType": "Alles Inklusive"
+        },
+        {
+          "id": "3",
+          "type": "Hotel",
+          "name": "Melia White House",
+          "description": "in Großbritannien, GreaterLondon/South East England, London",
+          "price": "$831",
+          "boardType": "Ohne Verpflegung"
+        },
+        {
+          "id": "4",
+          "type": "Holiday",
+          "name": "Pestana Vila Lido Madeira",
+          "description": "in Portugal, Madeira, Funchal",
+          "price": "$3,284",
+          "boardType": "Frühstück"
+        }
+      ]
+    }
+  ]
+}
